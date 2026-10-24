@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-256
-description: "Create XXD Panel 256 raster artwork: a faithful photograph paired with a contemporary naïve folk illustration with one centered subject, rounded forms and a large field of paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-256 or asks for this 稚拙民艺 style."
+description: "XXD Panel 256｜Naive Folk Art: reduces a photo to one subject, one feeling and one metaphor and paints it as a contemporary artist's naïve folk illustration — rounded simplified forms, childlike lines, flat colour shapes with a hand-cut feel, irregular edges, layered paint, paper texture and visible hand error, a few touches of gold leaf as the symbolic highlight, a soft bright palette of warm white, cream, powder blue, misty blue, plant green, soft yellow, coral orange and pale pink from the photo, the subject at or near the centre in a large field of paper, and a small, elegant handmade-style title or note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-256 or asks for naive art, modern folk illustration or gold-leaf artist illustration from a photo."
 ---
 
 # XXD Panel 256

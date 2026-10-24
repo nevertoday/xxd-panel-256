@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 256｜Naive Folk Art: reduces a photo to one subject, one feeling and one metaphor and paints it as a contemporary artist's naïve folk illustration — rounded simplified forms, childlike lines, flat colour shapes with a hand-cut feel, irregular edges, layered paint, paper texture and visible hand error, a few touches of gold leaf as the symbolic highlight, a soft bright palette of warm white, cream, powder blue, misty blue, plant green, soft yellow, coral orange and pale pink from the photo, the subject at or near the centre in a large field of paper, and a small, elegant handmade-style title or note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-256 or asks for naive art, modern folk illustration or gold-leaf artist illustration from a photo.",
+  "short_description": "稚拙民艺：把照片收成居中的稚拙民艺插画，圆润形体、少量金箔、四周大量空白",
+  "zh-CN": {
+    "name": "稚拙民艺",
+    "tagline": "把照片收成一幅居中的稚拙民艺小画：一个主体、一种情绪、一点金箔。",
+    "look": "照片里只留一个主题、一种情绪、一个隐喻，画成艺术家手绘的现代民艺插画：形体圆润简化，线条稚拙，平面色块带一点手工剪裁感，边缘不规则，看得见颜料覆盖、纸纹和手绘误差。主体放在中心或接近中心，四周是大片空白。几处小小的金箔碎片、金色线条或局部压金点在主体的情绪核心上，像珍贵的手工材料而不是金属特效。颜色从照片取，调成暖白、奶油、粉蓝、雾蓝、植物绿、柔黄、珊瑚橙、浅粉这样柔和明亮的色。配一个小而优雅的手工感标题或注释。",
+    "traits": ["稚拙民艺", "艺术家手绘", "圆润形体", "居中焦点", "金箔点睛", "大量空白"],
+    "good": [
+      "能代表一种心情的单个主体：一只鸟、一棵开花的树、一个抱着猫的人",
+      "带一点象征意味的日常物：一盏灯、一只碗、一个月亮般的橙子",
+      "想做成画册封面、独立出版物插画或收藏小画的照片"
+    ],
+    "poor": [
+      "有多个主体或复杂故事的照片，只会留下一个焦点",
+      "需要写实、准确比例或细节的用途",
+      "想要商业插画、卡通、3D 或金属特效感的需求"
+    ]
+  },
+  "en": {
+    "name": "Naive Folk Art",
+    "tagline": "Turns your photo into a small centred naïve folk painting: one subject, one feeling, a touch of gold leaf.",
+    "look": "Only one theme, one feeling and one metaphor remain, painted as a contemporary artist's modern folk illustration: rounded simplified forms, childlike lines and flat colour shapes with a hand-cut feel, irregular edges, layered paint, paper texture and visible hand error. The subject sits at or near the centre, surrounded by a wide blank field. A few small gold-leaf flakes, gold lines or patches of pressed gold mark the emotional core of the subject, like a precious handmade material rather than a metallic effect. Colours come from the photo and become soft, bright ones such as warm white, cream, powder blue, misty blue, plant green, soft yellow, coral orange and pale pink. A small, elegant, handmade-style title or note goes with it.",
+    "traits": ["Naïve folk art", "Artist's hand drawing", "Rounded forms", "Centred focus", "Gold-leaf accent", "Lots of blank space"],
+    "good": [
+      "A single subject that carries a mood: a bird, a tree in blossom, a person holding a cat",
+      "Everyday objects with a little symbolism: a lamp, a bowl, an orange like a moon",
+      "Photos you want as an art-book cover, small-press illustration or collectible small painting"
+    ],
+    "poor": [
+      "Photos with several subjects or a complex story; only one focus remains",
+      "Uses that need realism, accurate proportions or detail",
+      "Requests for commercial illustration, cartoon, 3D or a metallic-effect look"
+    ]
+  },
+  "ja": {
+    "name": "素朴な民藝",
+    "tagline": "写真を、中央に置いた素朴な民藝の小さな絵にします。主役一つ、気持ち一つ、金箔を少し。",
+    "look": "写真からはテーマ一つ、気持ち一つ、比喩一つだけを残し、アーティストの手描きによるモダン民藝のイラストにします。形は丸く簡略化し、線は素朴で、平らな色面には切り絵のような手仕事感があり、縁は不規則で、絵の具の重なりや紙の目、手描きの誤差も見えます。主役は中央かその近くに置き、まわりは広い空白です。小さな金箔のかけら、金の線、部分的な箔押しを主役の気持ちの核に数か所だけ置き、金属的な特殊効果ではなく貴重な手仕事の素材のように見せます。色は写真から取り、温かな白、生成り、パウダーブルー、霧のような青、草の緑、やわらかな黄色、コーラルオレンジ、淡いピンクといった、やさしく明るい色にします。小さく上品な手仕事風のタイトルや注記を添えます。",
+    "traits": ["素朴な民藝", "アーティストの手描き", "丸い形", "中央の焦点", "金箔のアクセント", "たっぷりの空白"],
+    "good": [
+      "一つの気分を表す主役：一羽の鳥、花の咲いた木、猫を抱いた人",
+      "少し象徴的な日用品：ランプ、お椀、月のようなオレンジ",
+      "画集の表紙、小さな出版物の挿絵、手元に置く小さな絵にしたい写真"
+    ],
+    "poor": [
+      "主役が複数ある写真や込み入った物語（焦点は一つしか残りません）",
+      "写実性、正確な比率、細部が必要な用途",
+      "商業イラスト、アニメ調、3D、金属的な特殊効果を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "천진한 민예",
+    "tagline": "사진을 가운데 놓인 작은 천진한 민예 그림으로 바꿉니다. 주인공 하나, 감정 하나, 금박 조금.",
+    "look": "사진에서 주제 하나, 감정 하나, 은유 하나만 남겨 예술가의 손그림 같은 현대 민예 일러스트로 그립니다. 형태는 둥글게 단순화하고 선은 천진하며, 납작한 색면에는 손으로 오려 낸 듯한 느낌이 있고 가장자리는 불규칙하며 물감이 덮인 자국과 종이 결, 손그림의 오차가 보입니다. 주인공은 가운데나 그 가까이에 두고 둘레에는 넓은 빈 공간을 둡니다. 작은 금박 조각, 금색 선, 부분 금박을 주인공의 감정의 중심에 몇 군데만 얹어, 금속 특수 효과가 아니라 귀한 수공예 재료처럼 보이게 합니다. 색은 사진에서 가져와 따뜻한 흰색, 크림색, 파우더 블루, 안개 낀 파랑, 풀빛 초록, 연노랑, 코랄 오렌지, 연분홍처럼 부드럽고 밝게 바꿉니다. 작고 우아한 손글씨풍 제목이나 메모를 곁들입니다.",
+    "traits": ["천진한 민예", "예술가의 손그림", "둥근 형태", "가운데 초점", "금박 포인트", "넓은 빈 공간"],
+    "good": [
+      "한 가지 기분을 담은 주인공 하나: 새 한 마리, 꽃 핀 나무, 고양이를 안은 사람",
+      "조금 상징적인 일상 물건: 등불, 그릇, 달 같은 오렌지",
+      "화집 표지, 독립 출판물 삽화, 소장용 작은 그림으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "주인공이 여럿이거나 이야기가 복잡한 사진(초점 하나만 남습니다)",
+      "사실성, 정확한 비례, 세부가 필요한 용도",
+      "상업 일러스트, 만화풍, 3D, 금속 특수 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الفن الشعبي الفطري",
+    "tagline": "يحوّل صورتك إلى لوحة شعبية فطرية صغيرة في الوسط: عنصر واحد وشعور واحد ولمسة من ورق الذهب.",
+    "look": "لا يبقى إلا موضوع واحد وشعور واحد واستعارة واحدة، تُرسم كرسم شعبي حديث بيد فنان معاصر: أشكال مستديرة مبسّطة وخطوط طفولية ومساحات لونية مسطّحة كأنها مقصوصة باليد، بحواف غير منتظمة وطبقات طلاء وملمس ورق وأخطاء يد ظاهرة. يقع العنصر في الوسط أو قريباً منه، ويحيط به فراغ واسع. بضع رقائق صغيرة من ورق الذهب أو خطوط ذهبية أو بقع من الذهب المضغوط تعلّم القلب العاطفي للعنصر، كمادة يدوية ثمينة لا كمؤثر معدني. تُؤخذ الألوان من الصورة وتتحول إلى ألوان ناعمة مشرقة مثل الأبيض الدافئ والكريمي والأزرق البودري والأزرق الضبابي وأخضر النبات والأصفر الناعم والبرتقالي المرجاني والوردي الفاتح. ويرافقه عنوان أو ملاحظة صغيرة أنيقة بخط يبدو يدوياً.",
+    "traits": ["فن شعبي فطري", "رسم يدوي لفنان", "أشكال مستديرة", "تركيز في الوسط", "لمسة ورق ذهب", "فراغ واسع"],
+    "good": [
+      "عنصر واحد يحمل مزاجاً: طائر، شجرة مزهرة، شخص يحمل قطة",
+      "أغراض يومية فيها شيء من الرمزية: مصباح، وعاء، برتقالة كالقمر",
+      "صور تريدها غلاف كتاب فني أو رسماً لمطبوعة مستقلة أو لوحة صغيرة للاقتناء"
+    ],
+    "poor": [
+      "صور فيها عدة عناصر أو قصة معقدة؛ لا يبقى إلا محور واحد",
+      "استخدامات تحتاج إلى الواقعية أو النِّسب الدقيقة أو التفاصيل",
+      "طلب رسم تجاري أو كرتوني أو ثلاثي الأبعاد أو مؤثرات معدنية"
+    ]
+  }
+}
